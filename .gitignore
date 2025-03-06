@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Other 
+aes_key.txt
+pastor_bandido.jpg
+image.png
